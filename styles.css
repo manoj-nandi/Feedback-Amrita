@@ -2,15 +2,15 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
   margin: 100px;
-  background-color: #F5F5F5; /* Negro */
-  color: #fff; /* Blanco para el texto */
+  background-color:whitesmoke; /* Negro */
+  color: black; /* Blanco para el texto */
 }
 
 #titulo {
-  font-size: 44px;
+  font-size: 35px;
   font-weight: bold;
   margin-bottom: 20px;
-  background-color: #EB26D4; /* Rosado */
+  background-color: pink; /* Rosado */
   padding: 10px;
   border-radius: 15px; /* Bordes redondeados */
 }
@@ -24,20 +24,20 @@ body {
   top: 50%;
   transform: translate(-50%, -50%);
   border: none;
-  color: #fff; /* Blanco */
+  color:black; /* Blanco */
   border-radius: 5px;
   font-weight: bold;
 }
 
 #si {
   left: 30%;
-  background-color: #c22afa; /* Negro */
+  background-color: green; /* Negro */
   border: 3px solid #000000; /* Borde negro */
 }
 
 #no {
   left: 70%;
-  background-color: #c22afa; /* Púrpura suave (sage) */
+  background-color: red; /* Púrpura suave (sage) */
   border: 3px solid #000000; /* Borde púrpura suave (sage) */
 }
 
