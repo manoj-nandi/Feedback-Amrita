@@ -1,5 +1,5 @@
 function perdonar() {
-  document.getElementById('titulo').innerText = 'Te amodoro mucho mi isleña';
+  document.getElementById('titulo').innerText = 'Yaaa..!! Then Unblock me..';
   document.getElementById('si').disabled = true;
   document.getElementById('no').disabled = true;
 }
